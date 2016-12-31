@@ -48,6 +48,10 @@ small, .small, .f5 {
   font-size: .875rem;
   line-height: 1.5rem; }
 
+hr {
+  margin: 2em 0px;
+  border-top: 1px solid #cccccc; }
+
 @media screen and (min-width: 48em) {
   .h1 {
     font-size: 4rem;
@@ -778,17 +782,20 @@ abbr {
   cursor: help; }
 
 pre, code {
-  font-family: Menlo, Monaco, "Courier New", monospace; }
+  font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 300; }
 
 code {
-  color: #7a7a7a; }
+  color: #333; }
 
 pre {
   padding: 1.125em;
   font-size: 1.125rem;
-  line-height: 1.11;
-  overflow-x: scroll;
-  margin-bottom: 0.88em; }
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin-bottom: 0.88em;
+  background-color: #f7f7f7; }
 
 .highlight .p {
   font-size: 1.125rem;
@@ -952,6 +959,13 @@ h6,
     border-bottom: none;
     margin-bottom: .666em;
     padding-bottom: 0; } }
+ruby > rt,
+sup {
+  font-size: 65%; }
+
+ruby > rt {
+  color: #4078c0; }
+
 footer {
   border-top: thin solid #f3f3f3; }
 
@@ -1030,7 +1044,7 @@ green     #859900  operators, other keywords
 */
 .highlight,
 .gist-syntax .highlight {
-  background-color: #002b36;
+  background-color: #f7f7f7;
   color: #93a1a1; }
 
 .highlight .c,
