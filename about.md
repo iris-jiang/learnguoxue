@@ -2,7 +2,7 @@
 layout: page
 title:  关于Pixyll 中文版
 permalink: /about/
-no_duoshuo: true
+comments: false
 ---
 
 ##中文版说明##

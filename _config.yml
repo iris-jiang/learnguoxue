@@ -8,7 +8,7 @@ url:         "https://iris-jiang.github.io/learnguoxue/"
 
 #Duoshuo short Name / 多说的shortname
 # duoshuo: iris_whu
-
+disqus_shortname: Iris
 #Baidu analytics / 百度统计(异步的js码，注意使用异步版本的)
 baidu_analyze: 
 
