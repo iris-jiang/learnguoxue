@@ -28,8 +28,8 @@
 &lt;p&gt;It’s free, and open source (&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;MIT&lt;/a&gt;).&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Jun 2014 23:31:19 +0800</pubDate>
-        <link>http://localhost:4000/mengxue/2014/06/11/welcome-to/</link>
-        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/11/welcome-to/</guid>
+        <link>http://localhost:4000/mengxue/2014/06/11/welcome-to.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/11/welcome-to.html</guid>
       </item>
     
       <item>
@@ -54,8 +54,8 @@
 &lt;p&gt;It’s free, and open source (&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;MIT&lt;/a&gt;).&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Jun 2014 23:31:19 +0800</pubDate>
-        <link>http://localhost:4000/mengxue/2014/06/11/welcome-to-pixyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/11/welcome-to-pixyll/</guid>
+        <link>http://localhost:4000/mengxue/2014/06/11/welcome-to-pixyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/11/welcome-to-pixyll.html</guid>
       </item>
     
       <item>
@@ -80,8 +80,8 @@
 &lt;p&gt;It’s free, and open source (&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;MIT&lt;/a&gt;).&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Jun 2014 23:31:19 +0800</pubDate>
-        <link>http://localhost:4000/mengxue/2014/06/11/welcome-to-pixyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/11/welcome-to-pixyll/</guid>
+        <link>http://localhost:4000/mengxue/2014/06/11/welcome-to-pixyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/11/welcome-to-pixyll.html</guid>
       </item>
     
       <item>
@@ -172,8 +172,8 @@ or add, features.&lt;/p&gt;
 &lt;p&gt;Happy writing.&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Jun 2014 20:31:19 +0800</pubDate>
-        <link>http://localhost:4000/mengxue/2014/06/10/see-pixyll-in-action/</link>
-        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/10/see-pixyll-in-action/</guid>
+        <link>http://localhost:4000/mengxue/2014/06/10/see-pixyll-in-action.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/10/see-pixyll-in-action.html</guid>
       </item>
     
       <item>
@@ -189,17 +189,34 @@ and &lt;a href=&quot;http://en.wikipedia.org/wiki/Textile_(markup_language)&quot
 &lt;p&gt;Learn more about Jekyll on their &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jun 2014 20:32:18 +0800</pubDate>
-        <link>http://localhost:4000/mengxue/2014/06/09/so-what-is-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/09/so-what-is-jekyll/</guid>
+        <link>http://localhost:4000/mengxue/2014/06/09/so-what-is-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/09/so-what-is-jekyll.html</guid>
       </item>
     
       <item>
         <title>Pixyll has Pagination</title>
         <description>&lt;p&gt;This is an empty post to illustrate the pagination component with Pixyll.&lt;/p&gt;
+
+&lt;p&gt;Learn markdown&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;文中内容取自[劝学网](http://www.quanxue.cn/ct_rujia/YouXueQL) ，在此基础上添加了部分注音，便于日后学习
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;导读
+——————-
+《幼学琼林》原名《幼学求源》, 明代程登吉(允升)所著。清代邹圣脉为之增补，易名为《幼学故事琼林》，简称《幼学琼林》, 曾风行于世。民国时人费有容、叶浦荪和蔡东藩等，都曾一再增补。此外，还有人仿效其体式，另行撰述，如清人谭贵球的《故事逢原》就是如此。《幼学琼林》在整个清代乃至民国时期风行全国各地，版本甚多，名称也不尽一致，如《故事寻源》、《幼学求源》、《幼学故事珠玑》、《幼学须知句解》等。此书的作者，一般都认为是明西昌人程登吉 （字允升），也有的意见认为是明景泰年间的进士邱濬。&lt;/p&gt;
+
+&lt;p&gt;凡四卷, 三十三项内容，依次是：天文、地舆、岁时、朝廷、文臣、武职(卷一)；祖孙父子、兄弟、夫妇、叔侄、师生、朋友宾主、婚姻、女子、外戚、老幼寿诞、身体、衣服、(卷二)；人事、饮食、宫室、器用、珍宝、贫富、疾病死丧(卷三)；文事、科第、制作、技艺、讼狱、释道鬼神、鸟兽、花木(卷四)。它相当于一部百科知识词典，用生动形象的对偶句，宣讲各种典故、知识和成语等。抑或可以把它看作是一部成语词典，里面的奇词妙语，比比皆是，不愧为“琼林”。 
+这本蒙书, 对宣传知识，普及成语，起过积极的作用。古人这样编写“成语词典”专供学童记诵，自有高明之处,其中奥妙，值得今人深味。&lt;/p&gt;
+
+&lt;h2 id=&quot;目录&quot;&gt;目录&lt;/h2&gt;
+&lt;p&gt;[TOC]
+###卷1 
+####天文&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Jun 2014 19:21:29 +0800</pubDate>
-        <link>http://localhost:4000/mengxue/2014/06/08/pixyll-has-pagination/</link>
-        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/08/pixyll-has-pagination/</guid>
+        <link>http://localhost:4000/mengxue/2014/06/08/pixyll-has-pagination.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/08/pixyll-has-pagination.html</guid>
       </item>
     
   </channel>
