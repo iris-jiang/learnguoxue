@@ -21,10 +21,11 @@ summary: >-
 目录
 ----------
 
-<!-- toc orderedList:0 depthFrom:4 depthTo:6 -->
+<!-- toc orderedList:0 depthFrom:3 depthTo:6 -->
 
-- [天文](#天文)
-- [地舆](#地舆)
+- [卷1](#卷1)
+	- [天文](#天文)
+	- [地舆](#地舆)
 
 <!-- tocstop -->
 
