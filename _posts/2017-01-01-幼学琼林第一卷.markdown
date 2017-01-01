@@ -20,13 +20,14 @@ summary: >-
 
 目录
 ----------
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-		- [卷1](#卷1)
-			- [天文](#天文)
-			- [地舆](#地舆)
+<!-- toc orderedList:0 depthFrom:4 depthTo:6 -->
 
-<!-- /TOC -->
+- [天文](#天文)
+- [地舆](#地舆)
+
+<!-- tocstop -->
+
 
 ### 卷1
 
