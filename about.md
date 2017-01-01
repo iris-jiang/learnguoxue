@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: false
-permalink: /about.html
+permalink: /about/
 ---
 
 # 关于
