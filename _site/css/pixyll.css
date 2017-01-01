@@ -250,8 +250,7 @@ strong, .bold {
   padding: 2rem; }
 
 .px2 {
-  padding-right: 2rem;
-  padding-left: 2rem; }
+  padding: 0; }
 
 .py2 {
   padding-top: 2rem;
@@ -280,11 +279,8 @@ strong, .bold {
   padding-bottom: 4rem; }
 
 .p-responsive {
-  padding: 1.5rem; }
-
-.px-responsive {
-  padding-right: 1.5rem;
-  padding-left: 1.5rem; }
+  padding: 1.5rem;
+  padding-top: 8rem; }
 
 .py-responsive {
   padding-top: 1.5rem;
@@ -292,22 +288,24 @@ strong, .bold {
 
 @media screen and (min-width: 48em) and (max-width: 64em) {
   .p-responsive {
-    padding: 3rem; }
+    padding: 3rem;
+    padding-top: 5rem; }
 
-  .px-responsive {
-    padding-right: 3rem;
-    padding-left: 3rem; }
+  .mt2 {
+    padding-left: 3rem;
+    padding-right: 3rem; }
 
   .py-responsive {
     padding-top: 3rem;
     padding-bottom: 3rem; } }
 @media screen and (min-width: 64em) {
   .p-responsive {
-    padding: 4rem; }
+    padding: 4rem;
+    padding-top: 6rem; }
 
   .px-responsive {
-    padding-right: 4rem;
-    padding-left: 4rem; }
+    padding-left: 0;
+    padding-right: 0; }
 
   .py-responsive {
     padding-top: 4rem;
@@ -653,6 +651,14 @@ body {
 .gist .lines {
   width: 100%; }
 
+.site-header {
+  position: fixed;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0px 2px 2px #cccccc;
+  padding-bottom: 1rem;
+  z-index: 999; }
+
 .site-header a {
   color: #333;
   font-weight: 300; }
@@ -921,8 +927,7 @@ h6,
     width: 100%;
     float: left;
     text-align: center;
-    margin-top: 0.666em;
-    margin-bottom: 1.333em; }
+    margin-top: 0.666em; }
 
   .social-icons .left, .social-icons .right {
     text-align: center;

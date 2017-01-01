@@ -327,8 +327,9 @@ strong, .bold {
 }
 
 .px2 {
-  padding-right: 2rem;
-  padding-left: 2rem;
+//  padding-right: 2rem;
+//  padding-left: 2rem;
+    padding: 0;
 }
 
 .py2 {
@@ -366,12 +367,13 @@ strong, .bold {
 
 .p-responsive {
   padding: 1.5rem;
+  padding-top: 8rem;
 }
 
-.px-responsive {
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
-}
+//.px-responsive {
+//  padding-right: 1.5rem;
+//  padding-left: 1.5rem;
+//}
 
 .py-responsive {
   padding-top: 1.5rem;
@@ -381,12 +383,16 @@ strong, .bold {
 @media screen and (min-width: 48em) and (max-width: 64em) {
   .p-responsive {
     padding: 3rem;
+    padding-top: 5rem;
   }
-
-  .px-responsive {
-    padding-right: 3rem;
-    padding-left: 3rem;
-  }
+    .mt2{
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+//  .px-responsive {
+//    padding-right: 3rem;
+//    padding-left: 3rem;
+//  }
 
   .py-responsive {
     padding-top: 3rem;
@@ -396,11 +402,15 @@ strong, .bold {
 @media screen and (min-width: 64em) {
   .p-responsive {
     padding: 4rem;
+    padding-top: 6rem;
+    
   }
 
   .px-responsive {
-    padding-right: 4rem;
-    padding-left: 4rem;
+//    padding-right: 4rem;
+//    padding-left: 4rem;
+      padding-left: 0;
+      padding-right: 0;
   }
 
   .py-responsive {
