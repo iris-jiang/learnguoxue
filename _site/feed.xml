@@ -243,22 +243,5 @@
         <guid isPermaLink="true">http://localhost:4000/%E8%92%99%E5%AD%A6/2016/12/31/%E5%B9%BC%E5%AD%A6%E7%90%BC%E6%9E%97%E7%AC%AC%E4%B8%80%E5%8D%B7.html</guid>
       </item>
     
-      <item>
-        <title>so-what-is-jekyll</title>
-        <description>&lt;p&gt;Jekyll is a tool for transforming your plain text into static websites and 
-blogs. It is simple, static, and blog-aware. Jekyll uses the 
-&lt;a href=&quot;http://docs.shopify.com/themes/liquid-basics&quot;&gt;Liquid&lt;/a&gt; templating
-language and has builtin &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;
-and &lt;a href=&quot;http://en.wikipedia.org/wiki/Textile_(markup_language)&quot;&gt;Textile&lt;/a&gt; support.&lt;/p&gt;
-
-&lt;p&gt;It also ties in nicely to &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Learn more about Jekyll on their &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Jun 2014 20:32:18 +0800</pubDate>
-        <link>http://localhost:4000/mengxue/2014/06/09/so-what-is-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mengxue/2014/06/09/so-what-is-jekyll.html</guid>
-      </item>
-    
   </channel>
 </rss>
