@@ -1,3 +1,8 @@
+---
+layout: post
+title: 幼学琼林第一卷
+categories: 蒙学
+---
 目录
 -----------
 
