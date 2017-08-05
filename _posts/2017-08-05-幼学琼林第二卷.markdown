@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 幼学琼林第一卷
+title: 幼学琼林第二卷
 categories: 蒙学
 ---
 目录
